@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### Hello there 👋 I'm Lakmali Ranatunga. 
+align="center"### Hello there 👋 I'm Lakmali Ranatunga. 
 
 ##### Welcome to my GitHub profile.
 
