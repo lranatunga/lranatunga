@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋I'm Lakmali Ranatunga. 
+
+##### Welcome to my GitHub profile.
+
+I have a degree in Agricultural Technology and Management and a master's in Organizational Management. I have been working as a banker for the last 8 years. (I know, quite unrelated, right?  ) Suddenly I developed an interest in programming!! 
+
 
 <!--
 **lranatunga/lranatunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
