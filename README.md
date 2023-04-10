@@ -14,7 +14,7 @@ So, currently, I'm following a Full Stack Web & App Development course at WBS Co
 
 I'm learning CSS, HTML, JavaScript, Figma, Bootstrap and many more to come :star2:.
 
-### Skills
+## Skills
  <picture>
 <img alt="CSS3 logo." src="https://global.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" width='225px' height='100px' >
  </picture>
