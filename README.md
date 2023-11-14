@@ -15,6 +15,7 @@ So, currently, I'm following a Full Stack Web & App Development course at WBS Co
 I'm learning CSS, HTML, JavaScript, Figma, Bootstrap and many more to come :star2:.
 
 ## Skills
+<div>
  <picture>
 <img alt="CSS3 logo." src="https://global.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" width='225px' height='100px' >
  </picture>
@@ -30,6 +31,25 @@ I'm learning CSS, HTML, JavaScript, Figma, Bootstrap and many more to come :star
   <picture>
 <img alt="Bootstrap logo." src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width='70px' height='70px'  >
  </picture>
+  <picture>
+<img alt="Python logo." src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/109px-Python-logo-notext.svg.png" width='70px' height='70px'  >
+ </picture>
+ <picture>
+<img alt="WordPress logo." src="https://static.vecteezy.com/system/resources/previews/020/975/579/original/wordpress-logo-wordpress-icon-transparent-free-png.png" width='100px' height='100px'  >
+ </picture>
+   <picture>
+ <img alt="Taildwind logo." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" width='70px' height='70px'  >
+ </picture>
+   <picture>
+      <img alt="Node logo." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png" width='100px' height='70px'  >
+ </picture>
+   <picture>
+ <img alt="MongoDB logo." src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/120px-MongoDB_Logo.svg.png" width='120px' height='70px'  >
+ </picture>
+  <picture>
+ <img alt="Express logo." src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/120px-Expressjs.png" width='120px' height='70px'  >
+ </picture>
+ </div>
  
 ###
 
