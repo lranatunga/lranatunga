@@ -49,8 +49,10 @@ I'm learning CSS, HTML, JavaScript, Figma, Bootstrap and many more to come :star
   <picture>
  <img alt="Express logo." src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/120px-Expressjs.png" width='120px' height='70px'  >
  </picture>
+   <picture>
+ <img alt="PyCharm logo." src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/1d/20200803065359%21PyCharm_Icon.svg/120px-PyCharm_Icon.svg.png" width='80px' height='80px'  >
+ </picture>
  </div>
- 
 ###
 
 I like reading :books:, travelling :train::oncoming_taxi::red_car: and watching :tv: when I'm free.
