@@ -53,6 +53,7 @@ I'm learning CSS, HTML, JavaScript, Figma, Bootstrap and many more to come :star
  <img alt="PyCharm logo." src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/1d/20200803065359%21PyCharm_Icon.svg/120px-PyCharm_Icon.svg.png" width='80px' height='80px'  >
  </picture>
  </div>
+ 
 ###
 
 I like reading :books:, travelling :train::oncoming_taxi::red_car: and watching :tv: when I'm free.
