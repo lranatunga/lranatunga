@@ -7,13 +7,14 @@
 ### Welcome to my GitHub profile.
 
 
-I have a degree in Agricultural Technology and Management and a Master's in Organizational Management. I have been working as a banker for the last 8 years. (I know, quite unrelated, right? :confused:) Suddenly I developed an interest in programming!!:sunglasses:
+I have a degree in Agricultural Technology and Management and a Master's in Organizational Management. I have been working as a banker for the last 8 years. (I know, quite unrelated, right? :confused:) Suddenly I developed an interest in programming!
 
-So, currently, I'm following a Full Stack Web & App Development course at WBS Coding School. I'm excited about what I learn.🙂
+So, I completed a Full Stack Web & App Development course at WBS Coding School and curently learning Python3 at CFG. I'm excited about what I learn.🙂
  
 
+<!--**
 I'm learning CSS, HTML, JavaScript, Figma, Bootstrap and many more to come :star2:.
-
+-->
 ## Skills
 <div>
  <picture>
